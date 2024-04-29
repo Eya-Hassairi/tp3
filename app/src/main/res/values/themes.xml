@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Eya_Hassairi_Mesure_glycémie" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Eya_Hassairi_Mesure_glycémie" parent="Base.Theme.Eya_Hassairi_Mesure_glycémie" />
+</resources>

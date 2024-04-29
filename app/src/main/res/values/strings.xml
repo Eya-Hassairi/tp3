@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eya_Hassairi_Mesure_glycémie</string>
+    <string name="text">Mesure de niveau de glycémie\n</string>
+    <string name="tvAgeText">Votre age :</string>
+    <string name="text2">Est-ce que vous jeunez ?</string>
+    <string name="rbtOui">Oui</string>
+    <string name="rbtNon">Non</string>
+    <string name="btnConsulter">CONSULTER</string>
+    <string name="points">...</string>
+    <string name="consultation">Consultation</string>
+</resources>
